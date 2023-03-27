@@ -19,8 +19,8 @@
 // #define CONFIG_MPU_AK89xx
 
 // COMMUNICATION PROTOCOL
-// #define CONFIG_MPU_I2C
-#define CONFIG_MPU_SPI
+ #define CONFIG_MPU_I2C
+//#define CONFIG_MPU_SPI
 
 // #define ___ENABLE_DMP
 // #define CONFIG_MPU_FIFO_CORRUPTION_CHECK
