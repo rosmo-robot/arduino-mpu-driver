@@ -2,12 +2,19 @@
 This is an Arduino library for interfacing with MPU sensors. It supports 
 
 MPU CHIP MODEL
+
  #define CONFIG_MPU6000
+ 
  #define CONFIG_MPU6050
+ 
  #define CONFIG_MPU6500
+ 
  #define CONFIG_MPU6555
+ 
  #define CONFIG_MPU9150
+ 
  #define CONFIG_MPU9250
+ 
  #define CONFIG_MPU9255
 
 Installation
